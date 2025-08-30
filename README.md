@@ -13,5 +13,10 @@ pip install -r requirements.txt
 ```
 
 # run
-1. run make_model.ipynb for creating model
-2. run inference.ipynb for creating submission files
+1. run make_model.ipynb for creating model : <a target="_blank" href="https://colab.research.google.com/github/minchoCoin/SCPC-AI-2025/blob/main/make_model.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+2. run inference.ipynb for creating submission files : <a target="_blank" href="https://colab.research.google.com/github/minchoCoin/SCPC-AI-2025/blob/main/inference.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
