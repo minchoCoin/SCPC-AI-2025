@@ -1,5 +1,5 @@
 # SCPC-AI-2025
-2025 SCPC AI Challenge code(Private 54th, and advanced to the finals with 22nd)
+2025 SCPC AI Challenge code(Private 22nd, and advanced to the finals with 22nd)
 
 ' Visual Question Answering with CLIP Model and Visual7W Dataset'
 
